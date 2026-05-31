@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydender",
+        "uuid": 26318439,
+        "checksum": "4mqgc7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
